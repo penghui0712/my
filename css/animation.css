@@ -1,0 +1,17 @@
+@keyframes logomove{
+	0%{transform: rotateX(-13deg) rotateY(0deg);}
+	100%{transform: rotateX(-13deg) rotateY(360deg);}
+}
+
+
+@keyframes navmove{
+	0%{transform: rotateX(-2deg);}
+	100%{transform: rotateX(-87deg)}
+}
+
+
+@keyframes li_bg{
+	0%{background: transparent;}
+	50%{background: rgba(0,0,0,0.6);}
+	100%{background: transparent;}
+}
